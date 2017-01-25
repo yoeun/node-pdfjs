@@ -1,0 +1,17 @@
+{
+  "name": "pdfjs-export",
+  "version": "1.0.0",
+  "description": "Export PDF.js data in node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "jsdom": "^9.9.1",
+    "localStorage": "^1.0.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
