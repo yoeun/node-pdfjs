@@ -10256,7 +10256,6 @@ var XRef = (function XRefClosure() {
 
     parse: function XRef_parse(recoveryMode) {
       var trailerDict;
-      console.log(this.stream)
       if (!recoveryMode) {
         trailerDict = this.readXRef();
       } else {

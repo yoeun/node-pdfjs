@@ -44,8 +44,6 @@ PDFJS.imageResourcesPath = './images/';
 
 var mozL10n = document.mozL10n || document.webL10n;
 
-console.log(mozL10n);
-
 
 var CSS_UNITS = 96.0 / 72.0;
 var DEFAULT_SCALE_VALUE = 'auto';
